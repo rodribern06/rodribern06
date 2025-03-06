@@ -3,6 +3,10 @@
 <!--  -->
 <p align="center">
 
+## About me
+
+Hello, I am Rodrigo Beron, a student of Computer Engineering at the University of Buenos Aires and a Programmer. I am 18 years old and I am always trying to learn something new based on technology and things in general about life. I am a self-taught person trying to form my own experience and concepts about the world of software development.
+
 
 
 ## 🛠️ My Skills
